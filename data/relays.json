@@ -99,6 +99,8 @@
     "wss://nostr.mwmdev.com",
     "wss://relay.21spirits.io",
     "wss://nostr-relay.freedomnode.com",
-    "wss://relay.minds.io/nostr/v1/ws"
+    "wss://relay.minds.io/nostr/v1/ws",
+    "wss://wlvs.space",
+    "wss://relay.dev.kronkltd.net"
   ]
 }
