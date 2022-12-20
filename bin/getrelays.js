@@ -3,6 +3,9 @@
 // Require the 'https' library 
 const https = require('https')
 
+// Set the variable for our relaysUri
+const relaysUri = "https://nostr.watch/relays.json"
+
 // Define a function to get a JSON object from a given URL
 function getJSON(url) {
   return new Promise((resolve, reject) => {
@@ -19,9 +22,14 @@ function getJSON(url) {
   })
 }
 
-// Set the variable for our relaysUri
-const relaysUri = "https://nostr.watch/relays.json"
 // Call getJSON with our relaysUri and log the JSON response in a pretty format
 getJSON(relaysUri)
-  .then((data) => console.log(JSON.stringify(data, null, 2)))
+  .then((data) => {
+    var relays = []
+    for (var i = 0; i < data.relays.length; i++) {
+      var obj = { '@id': data.relays[i], '@type': "Relay" }
+      relays.push(obj)
+    }
+    console.log(JSON.stringify(relays, null, 2))
+  })
 
