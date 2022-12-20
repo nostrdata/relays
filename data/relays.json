@@ -101,6 +101,8 @@
     "wss://nostr-relay.freedomnode.com",
     "wss://relay.minds.io/nostr/v1/ws",
     "wss://wlvs.space",
-    "wss://relay.dev.kronkltd.net"
+    "wss://relay.dev.kronkltd.net",
+    "wss://nostr.einundzwanzig.space",
+    "wss://nostr.d11n.net"
   ]
 }
