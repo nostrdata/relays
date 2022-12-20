@@ -1,0 +1,2 @@
+# relays
+nostr relays
