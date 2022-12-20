@@ -16,5 +16,5 @@ function getJSON(url) {
 }
 
 getJSON(relaysUri)
-  .then((data) => console.log(data));
+  .then((data) => console.log(JSON.stringify(data, null, 2)));
 
