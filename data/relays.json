@@ -1,5 +1,9 @@
 [
   {
+    "@id": "wss://relay.nostr.vision",
+    "@type": "Relay"
+  },
+  {
     "@id": "wss://nostr-3.orba.ca",
     "@type": "Relay"
   },
@@ -160,7 +164,7 @@
     "@type": "Relay"
   },
   {
-    "@id": "wss://nostr.nymsrelay.com/",
+    "@id": "wss://nostr.nymsrelay.com",
     "@type": "Relay"
   },
   {
@@ -240,6 +244,10 @@
     "@type": "Relay"
   },
   {
+    "@id": "wss://nostr-verif.slothy.win",
+    "@type": "Relay"
+  },
+  {
     "@id": "wss://nostr.coinos.io",
     "@type": "Relay"
   },
@@ -300,10 +308,6 @@
     "@type": "Relay"
   },
   {
-    "@id": "wss://nostr-pub.wellorder.net/",
-    "@type": "Relay"
-  },
-  {
     "@id": "wss://nostr-relay.wolfandcrow.tech",
     "@type": "Relay"
   },
@@ -317,18 +321,6 @@
   },
   {
     "@id": "wss://relay.sendstr.com",
-    "@type": "Relay"
-  },
-  {
-    "@id": "wss://nostr-2.zebedee.cloud/",
-    "@type": "Relay"
-  },
-  {
-    "@id": "wss://nostr.rewardsbunny.com/",
-    "@type": "Relay"
-  },
-  {
-    "@id": "wss://nostr.nymsrelay.com",
     "@type": "Relay"
   },
   {
@@ -348,23 +340,11 @@
     "@type": "Relay"
   },
   {
-    "@id": "wss://nostr.oxtr.dev/",
-    "@type": "Relay"
-  },
-  {
     "@id": "wss://nostr.shawnyeager.net",
     "@type": "Relay"
   },
   {
-    "@id": "wss://nostr.pobblelabs.org",
-    "@type": "Relay"
-  },
-  {
-    "@id": "wss://relay.dev.kronkltd.net/",
-    "@type": "Relay"
-  },
-  {
-    "@id": "wss://relay.nostr.info/",
+    "@id": "wss://relay.dev.kronkltd.net",
     "@type": "Relay"
   },
   {
@@ -373,14 +353,6 @@
   },
   {
     "@id": "wss://nostr-dev.wellorder.net",
-    "@type": "Relay"
-  },
-  {
-    "@id": "wss://nostr.semisol.dev/",
-    "@type": "Relay"
-  },
-  {
-    "@id": "wss://expensive-relay.fiatjaf.com/",
     "@type": "Relay"
   },
   {
@@ -404,15 +376,339 @@
     "@type": "Relay"
   },
   {
-    "@id": "wss://relay.dev.kronkltd.net",
-    "@type": "Relay"
-  },
-  {
     "@id": "wss://nostr.einundzwanzig.space",
     "@type": "Relay"
   },
   {
     "@id": "wss://nostr.d11n.net",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr1.tunnelsats.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.tunnelsats.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.leximaster.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.hugo.md",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://mule.platanito.org",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.ryzizub.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.w3ird.tech",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.robotechy.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.stoner.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.nostrmoto.xyz",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.boring.surf",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.bongbong.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.gruntwerk.org",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.mado.io",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.corebreach.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.hyperlingo.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.ethtozero.fr",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr-relay.digitalmob.ro",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.nvote.co",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://jiggytom.ddns.net",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.sectiontwo.org",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.roundrockbitcoiners.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.nodeofsven.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.jimc.me",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.utxo.lol",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.lexingtonbitcoin.org",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.mikedilger.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.f44.dev",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.nyx.ma",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.walletofsatoshi.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.shmueli.org",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://wizards.wormrobot.org",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.orangepill.dev",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://paid.no.str.cr",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.sovbit.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.datamagik.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.nostrid.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr1.starbackr.me",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr-relay.schnitzel.world",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.nostr.express",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://sg.qemura.xyz",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.formigator.eu",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.xpersona.net",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.n057r.club",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.digitalreformation.info",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.gromeul.eu",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr-relay.alekberg.net",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr2.actn.io",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr-relay.usebitcoin.space",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostrich.friendship.tw",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.mustardnodes.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr-alpha.gruntwerk.org",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr-relay.australiaeast.cloudapp.azure.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.bch.ninja",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr-relay.smoove.net",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr-relay.j3s7m4n.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.demovement.net",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.thesimplekid.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.aozing.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.blocs.fr",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://no.str.watch",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.vulpem.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://btc.klendazu.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.hackerman.pro",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.realsearch.cc",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.mrbits.it",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.coollamer.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://node01.nostress.cc",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.zenon.wtf",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.massmux.com",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://no.contry.xyz",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.nostr.bg",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.uselessshit.co",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://brb.io",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostream.gromeul.eu",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay.nostr.ro",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.developer.li",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.screaminglife.io",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://deschooling.us",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://relay-pub.deschooling.us",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr-pub1.southflorida.ninja",
+    "@type": "Relay"
+  },
+  {
+    "@id": "wss://nostr.ncsa.illinois.edu",
     "@type": "Relay"
   }
 ]
