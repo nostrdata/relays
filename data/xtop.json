@@ -1,0 +1,3477 @@
+{
+  "atlas.nostr.land": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.0",
+    "payment": true,
+    "price": 15000,
+    "pay": "https://atlas.nostr.land/invoices"
+  },
+  "nostr-pub.semisol.dev": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.0",
+    "payment": true,
+    "price": 15000,
+    "pay": "https://atlas.nostr.land/invoices"
+  },
+  "nostr-pub.wellorder.net": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "bhagos.org": {
+    "country": "Finland",
+    "nips": [
+      1,
+      2,
+      5,
+      9,
+      11,
+      12,
+      15,
+      20,
+      26,
+      33,
+      40,
+      42
+    ],
+    "version": "1.9.1"
+  },
+  "blg.nostr.sx": {
+    "country": "Serbia",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.17"
+  },
+  "brb.io": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      40
+    ],
+    "version": "0.6"
+  },
+  "btc.klendazu.com": {
+    "country": "Spain"
+  },
+  "deconomy-netser.ddns.net": {
+    "country": "Brazil"
+  },
+  "deschooling.us": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      5,
+      9,
+      11,
+      12,
+      15,
+      20,
+      26,
+      33,
+      40,
+      42
+    ],
+    "version": "1.8"
+  },
+  "e.nos.lol": {
+    "country": "United States",
+    "nips": [
+      1,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "v26-13c479d"
+  },
+  "eden.nostr.land": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.0",
+    "payment": true,
+    "price": 5000,
+    "pay": "https://eden.nostr.land/invoices"
+  },
+  "eosla.com": {
+    "country": "Singapore",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.8.0-rc.1"
+  },
+  "foolay.nostr.moe": {
+    "country": "United States",
+    "nips": [
+      9,
+      15,
+      16
+    ],
+    "version": "~"
+  },
+  "freedom-relay.herokuapp.com": {
+    "country": "United States"
+  },
+  "freespeech.casa": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.16"
+  },
+  "global.relay.red": {
+    "country": "Netherlands",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.18.0"
+  },
+  "jiggytom.ddns.net": {
+    "country": "United States"
+  },
+  "klockenga.social": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.17"
+  },
+  "knostr.neutrine.com": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      28,
+      50
+    ],
+    "version": "0.4"
+  },
+  "lv01.tater.ninja": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.11"
+  },
+  "merrcurr.up.railway.app": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.18.0"
+  },
+  "mule.platanito.org": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.12"
+  },
+  "n.wingu.se": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.8.0"
+  },
+  "no-str.org": {
+    "country": "Hong Kong",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.16.0"
+  },
+  "no.str.cr": {
+    "country": "Costa Rica",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.1"
+  },
+  "no.str.watch": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.12"
+  },
+  "node01.nostress.cc": {
+    "country": "Malaysia",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nos.lol": {
+    "country": "Germany",
+    "nips": [
+      1,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "v26-13c479d"
+  },
+  "nostr-01.bolt.observer": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.18.0"
+  },
+  "nostr-1.nbo.angani.co": {
+    "country": "Kenya",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.16.0"
+  },
+  "nostr-2.zebedee.cloud": {
+    "country": "United States"
+  },
+  "nostr-bg01.ciph.rs": {
+    "country": "Serbia",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.17"
+  },
+  "nostr-dev.newstr.io": {
+    "country": "United States",
+    "nips": [
+      9,
+      12,
+      15,
+      16,
+      20
+    ]
+  },
+  "nostr-dev.wellorder.net": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr-pub1.southflorida.ninja": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.18.0"
+  },
+  "nostr-relay-dev.wlvs.space": {
+    "country": "Canada"
+  },
+  "nostr-relay.alekberg.net": {
+    "country": "Netherlands"
+  },
+  "nostr-relay.bitcoin.ninja": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.15"
+  },
+  "nostr-relay.derekross.me": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 100000,
+    "pay": "https://nostr-relay.derekross.me/invoices"
+  },
+  "nostr-relay.digitalmob.ro": {
+    "country": "Romania",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.13"
+  },
+  "nostr-relay.freeberty.net": {
+    "country": "United States"
+  },
+  "nostr-relay.freedomnode.com": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.16"
+  },
+  "nostr-relay.gkbrk.com": {
+    "country": "Finland",
+    "nips": [
+      1,
+      2,
+      4,
+      11
+    ],
+    "version": "69.420"
+  },
+  "nostr-relay.lnmarkets.com": {
+    "country": "United Kingdom",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.15"
+  },
+  "nostr-relay.nonce.academy": {
+    "country": "United States"
+  },
+  "nostr-relay.schnitzel.world": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      33
+    ],
+    "version": "1.11.0"
+  },
+  "nostr-relay.untethr.me": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      42
+    ],
+    "version": "SNAPSHOT"
+  },
+  "nostr-relay.usebitcoin.space": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      33
+    ],
+    "version": "1.12.1"
+  },
+  "nostr-relay.wlvs.space": {
+    "country": "Canada"
+  },
+  "nostr-verif.slothy.win": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr-verified.wellorder.net": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.13x.sh": {
+    "country": "United States",
+    "nips": [
+      9,
+      12,
+      15,
+      16,
+      20,
+      42,
+      42069
+    ]
+  },
+  "nostr.21m.fr": {
+    "country": "France",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.16"
+  },
+  "nostr.8e23.net": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.1"
+  },
+  "nostr.actn.io": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.10"
+  },
+  "nostr.ahaspharos.de": {
+    "country": "Germany",
+    "nips": [
+      12,
+      9,
+      11,
+      16,
+      33,
+      20,
+      22
+    ],
+    "version": "0.0.8"
+  },
+  "nostr.aozing.com": {
+    "country": "United States",
+    "nips": [
+      9,
+      15,
+      16
+    ],
+    "version": "~"
+  },
+  "nostr.app.runonflux.io": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.15"
+  },
+  "nostr.argdx.net": {
+    "country": "Italy",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.17"
+  },
+  "nostr.arguflow.gg": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.18.0"
+  },
+  "nostr.bch.ninja": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      33
+    ],
+    "version": "1.12.1"
+  },
+  "nostr.bitcoin-21.org": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.8.0-rc.1"
+  },
+  "nostr.bitcoin.sex": {
+    "country": "Netherlands",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.15"
+  },
+  "nostr.bitcoinbay.engineering": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.17.2"
+  },
+  "nostr.bitcoiner.social": {
+    "country": "United States",
+    "nips": [
+      1,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "v27-6bd5393"
+  },
+  "nostr.bitcoinplebs.de": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 5000,
+    "pay": "https://nostr.bitcoinplebs.de/invoices"
+  },
+  "nostr.bitcoinpuertori.co": {
+    "country": "India",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 10000,
+    "pay": "https://nostr.bitcoinpuertori.co/invoices"
+  },
+  "nostr.blockchaincaffe.it": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.16"
+  },
+  "nostr.blockpower.capital": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.blocs.fr": {
+    "country": "France",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.13"
+  },
+  "nostr.bongbong.com": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.cercatrova.me": {
+    "country": "Finland",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.chaker.net": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.18.0"
+  },
+  "nostr.cheeserobot.org": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": false,
+    "pay": "https://nostr.cheeserobot.org/invoices"
+  },
+  "nostr.coinos.io": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.12"
+  },
+  "nostr.coinsamba.com.br": {
+    "country": "Brazil",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.17.2"
+  },
+  "nostr.com.de": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.8.0-rc.1"
+  },
+  "nostr.coollamer.com": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.13"
+  },
+  "nostr.corebreach.com": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.14"
+  },
+  "nostr.cro.social": {
+    "country": "France",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.cvilleblockchain.org": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.18.0"
+  },
+  "nostr.d11n.net": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.17"
+  },
+  "nostr.decentony.com": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 7000,
+    "pay": "https://nostr.decentony.com/invoices"
+  },
+  "nostr.delo.software": {
+    "country": "Netherlands"
+  },
+  "nostr.developer.li": {
+    "country": "France",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": false,
+    "pay": "https://nostr.developer.li/invoices"
+  },
+  "nostr.digitalreformation.info": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      33
+    ],
+    "version": "1.10.0"
+  },
+  "nostr.drss.io": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.15.1"
+  },
+  "nostr.easydns.ca": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.16.0"
+  },
+  "nostr.einundzwanzig.space": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.17"
+  },
+  "nostr.ethtozero.fr": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.16"
+  },
+  "nostr.f44.dev": {
+    "country": "Netherlands",
+    "nips": [
+      9,
+      15,
+      16
+    ],
+    "version": "~"
+  },
+  "nostr.fly.dev": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.1"
+  },
+  "nostr.fmt.wiz.biz": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.18.0"
+  },
+  "nostr.fredix.xyz": {
+    "country": "France"
+  },
+  "nostr.gives.africa": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 10000,
+    "pay": "https://nostr.gives.africa/invoices"
+  },
+  "nostr.globals.fans": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.gromeul.eu": {
+    "country": "France",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 5000,
+    "pay": "https://nostr.gromeul.eu/invoices"
+  },
+  "nostr.gruntwerk.org": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.16"
+  },
+  "nostr.hackerman.pro": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.15"
+  },
+  "nostr.handyjunky.com": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.17"
+  },
+  "nostr.howtobitcoin.shop": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.19.0"
+  },
+  "nostr.hugo.md": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.5"
+  },
+  "nostr.inosta.cc": {
+    "country": "France",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.0",
+    "payment": true,
+    "price": 5000,
+    "pay": "https://nostr.inosta.cc/invoices"
+  },
+  "nostr.itssilvestre.com": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.13.0"
+  },
+  "nostr.jiashanlu.synology.me": {
+    "country": "United Arab Emirates"
+  },
+  "nostr.jimc.me": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.15"
+  },
+  "nostr.kawagarbo.xyz": {
+    "country": "Japan",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": false,
+    "pay": "https://nostream.your-domain.com/invoices"
+  },
+  "nostr.klabo.blog": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.8.0"
+  },
+  "nostr.kollider.xyz": {
+    "country": "Ireland",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.16"
+  },
+  "nostr.lnorb.com": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      5,
+      9,
+      11,
+      12,
+      15,
+      20,
+      26,
+      40
+    ],
+    "version": "1.4.6"
+  },
+  "nostr.lnprivate.network": {
+    "country": "Japan",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.15"
+  },
+  "nostr.localhost.re": {
+    "country": "France",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.17"
+  },
+  "nostr.lorentz.is": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.16"
+  },
+  "nostr.lu.ke": {
+    "country": "United Kingdom",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.17.2"
+  },
+  "nostr.mado.io": {
+    "country": "South Africa",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.12"
+  },
+  "nostr.massmux.com": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": false,
+    "pay": "https://nostr.massmux.com/invoices"
+  },
+  "nostr.member.cash": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.8.0-rc.1"
+  },
+  "nostr.mikedilger.com": {
+    "country": "New Zealand",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.milou.lol": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.18.0"
+  },
+  "nostr.mom": {
+    "country": "Finland",
+    "nips": [
+      1,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "v26-13c479d"
+  },
+  "nostr.mouton.dev": {
+    "country": "France",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.16"
+  },
+  "nostr.mustardnodes.com": {
+    "country": "Malaysia",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.15"
+  },
+  "nostr.mwmdev.com": {
+    "country": "Portugal",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.15"
+  },
+  "nostr.naut.social": {
+    "country": "United Kingdom",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 4000,
+    "pay": "https://nostr.naut.social/invoices"
+  },
+  "nostr.nodeofsven.com": {
+    "country": "Switzerland",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.1"
+  },
+  "nostr.noones.com": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      5,
+      9,
+      11,
+      12,
+      15,
+      20,
+      26,
+      40
+    ],
+    "version": "1.2.1"
+  },
+  "nostr.ono.re": {
+    "country": "Switzerland"
+  },
+  "nostr.onsats.org": {
+    "country": "France"
+  },
+  "nostr.openchain.fr": {
+    "country": "France",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.orba.ca": {
+    "country": "South Africa",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      33
+    ],
+    "version": "1.10.0"
+  },
+  "nostr.ownscale.org": {
+    "country": "Switzerland",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 4000,
+    "pay": "https://nostr.ownscale.org/invoices"
+  },
+  "nostr.oxtr.dev": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.p2sh.co": {
+    "country": "United States"
+  },
+  "nostr.pcdkd.fyi": {
+    "country": "United States"
+  },
+  "nostr.phenomenon.space": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.16.0"
+  },
+  "nostr.pjv.me": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": false,
+    "pay": "https://nostr.pjv.me/invoices"
+  },
+  "nostr.plebchain.org": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 6969,
+    "pay": "https://nostr.plebchain.org/invoices"
+  },
+  "nostr.radixrat.com": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.rdfriedl.com": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.reamde.dev": {
+    "country": "United Kingdom",
+    "nips": [
+      1,
+      2,
+      11
+    ],
+    "version": "0.6.0"
+  },
+  "nostr.relayer.se": {
+    "country": "Sweden",
+    "nips": [
+      1,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "v25-b5e1bb5"
+  },
+  "nostr.rewardsbunny.com": {
+    "country": "Singapore",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      33
+    ],
+    "version": "1.10.0"
+  },
+  "nostr.robotechy.com": {
+    "country": "Netherlands"
+  },
+  "nostr.rocks": {
+    "country": "Germany"
+  },
+  "nostr.roundrockbitcoiners.com": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      33
+    ],
+    "version": "1.11.0"
+  },
+  "nostr.sandwich.farm": {
+    "country": "Germany"
+  },
+  "nostr.satsophone.tk": {
+    "country": "Australia",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      22,
+      26
+    ],
+    "version": "0.7.1"
+  },
+  "nostr.screaminglife.io": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": false,
+    "pay": "https://nostr.screaminglife.io/invoices"
+  },
+  "nostr.sebastix.dev": {
+    "country": "Netherlands",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.18.0"
+  },
+  "nostr.semisol.dev": {
+    "country": "Finland",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.12"
+  },
+  "nostr.sg": {
+    "country": "Singapore",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.8.0"
+  },
+  "nostr.shawnyeager.net": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.18.0"
+  },
+  "nostr.shmueli.org": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.12"
+  },
+  "nostr.sidnlabs.nl": {
+    "country": "Netherlands",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": false,
+    "pay": "https://nostr.sidnlabs.nl/invoices"
+  },
+  "nostr.slothy.win": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": false,
+    "pay": "https://nostr.slothy.win/invoices"
+  },
+  "nostr.snblago.com": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.8.0-rc.1"
+  },
+  "nostr.supremestack.xyz": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.15.1"
+  },
+  "nostr.swiss-enigma.ch": {
+    "country": "Finland",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.thesimplekid.com": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.1"
+  },
+  "nostr.thomascdnns.com": {
+    "country": "France",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.13"
+  },
+  "nostr.unknown.place": {
+    "country": "Germany"
+  },
+  "nostr.up.railway.app": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.17.2"
+  },
+  "nostr.uselessshit.co": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 2169,
+    "pay": "https://nostr.uselessshit.co/invoices"
+  },
+  "nostr.utxo.lol": {
+    "country": "Finland",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      33
+    ],
+    "version": "1.10.0"
+  },
+  "nostr.vulpem.com": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.13"
+  },
+  "nostr.w3ird.tech": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "nostr.walletofsatoshi.com": {
+    "country": "Canada"
+  },
+  "nostr.whoop.ph": {
+    "country": "Philippines"
+  },
+  "nostr.wine": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 8888,
+    "pay": "https://nostr.wine/invoices"
+  },
+  "nostr.xpersona.net": {
+    "country": "United States"
+  },
+  "nostr.yael.at": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      33
+    ],
+    "version": "1.10.0"
+  },
+  "nostr.zaprite.io": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      11,
+      15,
+      16
+    ],
+    "version": "0.6.1"
+  },
+  "nostr.zebedee.cloud": {
+    "country": "United States"
+  },
+  "nostr.zerofeerouting.com": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.8"
+  },
+  "nostr.zkid.social": {
+    "country": "South Korea",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40
+    ],
+    "version": "1.21.0"
+  },
+  "nostr.zoomout.chat": {
+    "country": "Iceland",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.14"
+  },
+  "nostr1.tunnelsats.com": {
+    "country": "Turkey",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40
+    ],
+    "version": "1.21.0"
+  },
+  "nostr2.actn.io": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.13"
+  },
+  "nostrex.fly.dev": {
+    "country": "United States",
+    "nips": [
+      1,
+      4
+    ],
+    "version": "0.0.1"
+  },
+  "nostrical.com": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.16.0"
+  },
+  "nostrich.friendship.tw": {
+    "country": "Taiwan",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.13"
+  },
+  "nostrrelay.com": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.11"
+  },
+  "paid.no.str.cr": {
+    "country": "Costa Rica",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.1"
+  },
+  "paid.spore.ws": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 420,
+    "pay": "https://paid.spore.ws/invoices"
+  },
+  "private-nostr.v0l.io": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.13"
+  },
+  "private.red.gb.net": {
+    "country": "United Kingdom",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 8888,
+    "pay": "https://private.red.gb.net/invoices"
+  },
+  "puravida.nostr.land": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.18.0"
+  },
+  "relay-pub.deschooling.us": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      5,
+      9,
+      11,
+      12,
+      15,
+      20,
+      26,
+      33,
+      40
+    ],
+    "version": "1.8"
+  },
+  "relay.boring.surf": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      33
+    ],
+    "version": "1.10.0"
+  },
+  "relay.cryptocculture.com": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.10"
+  },
+  "relay.cynsar.foundation": {
+    "country": "United States"
+  },
+  "relay.damus.io": {
+    "country": "Canada",
+    "nips": [
+      1,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "v27-6bd5393"
+  },
+  "relay.farscapian.com": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.8.0"
+  },
+  "relay.grunch.dev": {
+    "country": "United States"
+  },
+  "relay.kronkltd.net": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "SNAPSHOT"
+  },
+  "relay.lexingtonbitcoin.org": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.16"
+  },
+  "relay.minds.com": {
+    "country": "Canada"
+  },
+  "relay.minds.io": {
+    "country": "United States"
+  },
+  "relay.nosphr.com": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.7.16"
+  },
+  "relay.nostr-latam.link": {
+    "country": "Brazil",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": false,
+    "pay": "https://relay.nostr-latam.link/invoices"
+  },
+  "relay.nostr.au": {
+    "country": "Australia",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.12"
+  },
+  "relay.nostr.band": {
+    "country": "Finland",
+    "nips": [
+      1,
+      11,
+      12,
+      15,
+      20,
+      22,
+      42,
+      50
+    ],
+    "version": "0.1"
+  },
+  "relay.nostr.ch": {
+    "country": "Netherlands"
+  },
+  "relay.nostr.com.au": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.0",
+    "payment": true,
+    "price": 6969,
+    "pay": "https://relay.nostr.com.au/invoices"
+  },
+  "relay.nostr.express": {
+    "country": "Netherlands",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      20
+    ],
+    "version": "0.8.2"
+  },
+  "relay.nostr.info": {
+    "country": "Netherlands",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": false,
+    "pay": "https://relay.nostr.info/invoices"
+  },
+  "relay.nostr.nu": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 2000,
+    "pay": "https://relay.nostr.nu/invoices"
+  },
+  "relay.nostr.ro": {
+    "country": "Netherlands",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26
+    ],
+    "version": "0.7.15"
+  },
+  "relay.nostr.scot": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "relay.nostr.vision": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.15.1"
+  },
+  "relay.nostr.wf": {
+    "country": "Netherlands"
+  },
+  "relay.nostrati.com": {
+    "country": "United Kingdom",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.0",
+    "payment": true,
+    "price": 2000,
+    "pay": "https://relay.nostrati.com/invoices"
+  },
+  "relay.nostrgraph.net": {
+    "country": "United States",
+    "version": "Infinite"
+  },
+  "relay.nostrich.de": {
+    "country": "Germany",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "relay.nostrich.land": {
+    "country": "Japan",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 2100,
+    "pay": "https://relay.nostrich.land/invoices"
+  },
+  "relay.nostriches.org": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 421,
+    "pay": "https://relay.nostriches.org/invoices"
+  },
+  "relay.nvote.co": {
+    "country": "Netherlands"
+  },
+  "relay.oldcity-bitcoiners.info": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22
+    ],
+    "version": "0.8.0"
+  },
+  "relay.orangepill.dev": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40,
+      111
+    ],
+    "version": "1.22.1",
+    "payment": true,
+    "price": 4500,
+    "pay": "https://relay.orangepill.dev/invoices"
+  },
+  "relay.realsearch.cc": {
+    "country": "Finland",
+    "nips": [
+      1,
+      11,
+      12,
+      15,
+      20,
+      22,
+      42,
+      50
+    ],
+    "version": "0.1"
+  },
+  "relay.ryzizub.com": {
+    "country": "Belgium",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33,
+      40
+    ],
+    "version": "1.21.0"
+  },
+  "relay.sendstr.com": {
+    "country": "Canada",
+    "nips": [
+      1,
+      2,
+      11,
+      15,
+      16
+    ],
+    "version": "0.6.1"
+  },
+  "relay.snort.social": {
+    "country": "France",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "relay.stoner.com": {
+    "country": "Switzerland",
+    "nips": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      33
+    ],
+    "version": "0.8.2"
+  },
+  "relay.taxi": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.16.0"
+  },
+  "relayer.fiatjaf.com": {
+    "country": "Luxembourg"
+  },
+  "rsslay.fiatjaf.com": {
+    "country": "Germany"
+  },
+  "rsslay.nostr.moe": {
+    "country": "United States",
+    "nips": [
+      9,
+      12,
+      15,
+      16,
+      20
+    ],
+    "version": "~"
+  },
+  "rsslay.nostr.net": {
+    "country": "Germany",
+    "nips": [
+      9,
+      15,
+      16
+    ],
+    "version": "~"
+  },
+  "student.chadpolytechnic.com": {
+    "country": "United States",
+    "nips": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      12,
+      15,
+      16,
+      20,
+      22,
+      26,
+      28,
+      33
+    ],
+    "version": "1.16.0"
+  }
+}
