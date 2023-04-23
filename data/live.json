@@ -1,0 +1,328 @@
+{
+  "relays": [
+    {
+      "name": "nostr-pub.wellorder.net",
+      "tags": [
+        "bitcoin",
+        "plebchain"
+      ],
+      "connect_time": "23ms",
+      "read_time": "82ms",
+      "write_time": "13ms",
+      "average_time": "12ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.8e23.net",
+      "tags": [
+        "bitcoin",
+        "plebchain",
+        "zapchain"
+      ],
+      "connect_time": "37ms",
+      "read_time": "156ms",
+      "write_time": "13ms",
+      "average_time": "16ms",
+      "favorite": true
+    },
+    {
+      "name": "nostrical.com",
+      "tags": [
+        "bitcoin",
+        "plebchain",
+        "zapchain"
+      ],
+      "connect_time": "41ms",
+      "read_time": "96ms",
+      "write_time": "37ms",
+      "average_time": "39ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.shroomslab.net",
+      "tags": [],
+      "connect_time": "51ms",
+      "read_time": "231ms",
+      "write_time": "21ms",
+      "average_time": "25ms",
+      "favorite": true
+    },
+    {
+      "name": "relay.nostr.ro",
+      "tags": [],
+      "connect_time": "52ms",
+      "read_time": "217ms",
+      "write_time": "22ms",
+      "average_time": "24ms",
+      "favorite": true
+    },
+    {
+      "name": "lbrygen.xyz",
+      "tags": [
+        "bitcoin",
+        "plebchain",
+        "nostruniverse"
+      ],
+      "connect_time": "53ms",
+      "read_time": "128ms",
+      "write_time": "21ms",
+      "average_time": "108ms",
+      "favorite": true
+    },
+    {
+      "name": "xmr.usenostr.org",
+      "tags": [],
+      "connect_time": "54ms",
+      "read_time": "251ms",
+      "write_time": "19ms",
+      "average_time": "20ms",
+      "favorite": true
+    },
+    {
+      "name": "relay.roli.social",
+      "tags": [],
+      "connect_time": "57ms",
+      "read_time": "302ms",
+      "write_time": "18ms",
+      "average_time": "23ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.einundzwanzig.space",
+      "tags": [
+        "bitcoin",
+        "plebchain",
+        "zapchain"
+      ],
+      "connect_time": "61ms",
+      "read_time": "278ms",
+      "write_time": "34ms",
+      "average_time": "25ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.cruncher.com",
+      "tags": [],
+      "connect_time": "64ms",
+      "read_time": "179ms",
+      "write_time": "55ms",
+      "average_time": "41ms",
+      "favorite": true
+    },
+    {
+      "name": "pow.nostrati.com",
+      "tags": [],
+      "connect_time": "69ms",
+      "read_time": "277ms",
+      "write_time": "31ms",
+      "average_time": "40ms",
+      "favorite": true
+    },
+    {
+      "name": "relay.snort.social",
+      "tags": [],
+      "connect_time": "72ms",
+      "read_time": "313ms",
+      "write_time": "32ms",
+      "average_time": "38ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.21crypto.ch",
+      "tags": [
+        "bitcoin",
+        "plebchain",
+        "zapchain"
+      ],
+      "connect_time": "73ms",
+      "read_time": "305ms",
+      "write_time": "34ms",
+      "average_time": "41ms",
+      "favorite": true
+    },
+    {
+      "name": "tmp-relay.cesc.trade",
+      "tags": [
+        "bitcoin",
+        "plebchain",
+        "damus"
+      ],
+      "connect_time": "75ms",
+      "read_time": "201ms",
+      "write_time": "32ms",
+      "average_time": "64ms",
+      "favorite": true
+    },
+    {
+      "name": "noster.online",
+      "tags": [],
+      "connect_time": "81ms",
+      "read_time": "310ms",
+      "write_time": "47ms",
+      "average_time": "41ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.1f52b.xyz",
+      "tags": [],
+      "connect_time": "87ms",
+      "read_time": "323ms",
+      "write_time": "30ms",
+      "average_time": "31ms",
+      "favorite": true
+    },
+    {
+      "name": "ithurtswhenip.ee",
+      "tags": [],
+      "connect_time": "89ms",
+      "read_time": "315ms",
+      "write_time": "47ms",
+      "average_time": "59ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.bitocial.xyz",
+      "tags": [],
+      "connect_time": "91ms",
+      "read_time": "90ms",
+      "write_time": "23ms",
+      "average_time": "436ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.l00p.org",
+      "tags": [
+        "nostrstudy",
+        "plebchain",
+        "marchofftwitter"
+      ],
+      "connect_time": "97ms",
+      "read_time": "178ms",
+      "write_time": "13ms",
+      "average_time": "16ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.data.haus",
+      "tags": [
+        "bitcoin",
+        "plebchain",
+        "zapchain"
+      ],
+      "connect_time": "108ms",
+      "read_time": "560ms",
+      "write_time": "34ms",
+      "average_time": "36ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.robotesc.ro",
+      "tags": [
+        "bitcoin",
+        "btc",
+        "rusia"
+      ],
+      "connect_time": "110ms",
+      "read_time": "253ms",
+      "write_time": "25ms",
+      "average_time": "27ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.xmr.rocks",
+      "tags": [],
+      "connect_time": "111ms",
+      "read_time": "687ms",
+      "write_time": "15ms",
+      "average_time": "19ms",
+      "favorite": true
+    },
+    {
+      "name": "nostramsterdam.vpx.moe",
+      "tags": [
+        "bitcoin",
+        "tetriseffect",
+        "marchofftwitter"
+      ],
+      "connect_time": "119ms",
+      "read_time": "646ms",
+      "write_time": "34ms",
+      "average_time": "29ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.thank.eu",
+      "tags": [
+        "bitcoin",
+        "btc",
+        "rusia"
+      ],
+      "connect_time": "125ms",
+      "read_time": "356ms",
+      "write_time": "29ms",
+      "average_time": "25ms",
+      "favorite": true
+    },
+    {
+      "name": "relay.nostr.ai",
+      "tags": [],
+      "connect_time": "126ms",
+      "read_time": "181ms",
+      "write_time": "180ms",
+      "average_time": "440ms",
+      "favorite": true
+    },
+    {
+      "name": "powrelay.xyz",
+      "tags": [],
+      "connect_time": "131ms",
+      "read_time": "316ms",
+      "write_time": "27ms",
+      "average_time": "26ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.btcmp.com",
+      "tags": [
+        "justnostrthings",
+        "022---v2-tokens"
+      ],
+      "connect_time": "140ms",
+      "read_time": "106ms",
+      "write_time": "237ms",
+      "average_time": "39ms",
+      "favorite": true
+    },
+    {
+      "name": "nerostr.xmr.rocks",
+      "tags": [],
+      "connect_time": "143ms",
+      "read_time": "89ms",
+      "write_time": "236ms",
+      "average_time": "581ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr01.opencult.com",
+      "tags": [],
+      "connect_time": "145ms",
+      "read_time": "133ms",
+      "write_time": "15ms",
+      "average_time": "20ms",
+      "favorite": true
+    },
+    {
+      "name": "nostr.swiss-enigma.ch",
+      "tags": [
+        "bitcoin",
+        "plebchain",
+        "start9"
+      ],
+      "connect_time": "152ms",
+      "read_time": "285ms",
+      "write_time": "71ms",
+      "average_time": "252ms",
+      "favorite": true
+    }
+  ]
+}
